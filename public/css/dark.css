@@ -1,0 +1,30 @@
+body{
+    background-color: #2a2a2a;
+}
+
+.navbar-nav-dark{
+    background-color: #222222;
+}
+.navbar-nav-dark-link{
+    color: #cfcfcf;
+}
+
+.panel-dark{
+    background-color: #5f5f5f;
+    color: #cfcfcf;
+}
+
+.panel-dark-title{
+    background-color: #5f5f5f !important;
+    color: #cfcfcf !important;
+}
+
+code{
+    color: #5f5f5f;
+    background-color: #cfcfcf;
+}
+
+pre{
+    color: #5f5f5f;
+    background-color: #cfcfcf;
+}
